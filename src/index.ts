@@ -1,2 +1,2 @@
-export * as activity from './activity'
-export * as mixins from './mixins'
+export * as Activity from './activity'
+export * as Mixins from './mixins'
