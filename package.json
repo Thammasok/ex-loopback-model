@@ -1,6 +1,6 @@
 {
   "name": "@thammasok/ex-loopback-model",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "example model package for loopback",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
